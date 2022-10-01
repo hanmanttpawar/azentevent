@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/azentevent/static/css/main.2b049ab4.css",
+    "main.js": "/azentevent/static/js/main.cdf1b5bd.js",
+    "index.html": "/azentevent/index.html",
+    "main.2b049ab4.css.map": "/azentevent/static/css/main.2b049ab4.css.map",
+    "main.cdf1b5bd.js.map": "/azentevent/static/js/main.cdf1b5bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b049ab4.css",
+    "static/js/main.cdf1b5bd.js"
+  ]
+}
